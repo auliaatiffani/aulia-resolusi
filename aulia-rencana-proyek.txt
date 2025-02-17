@@ -8,3 +8,4 @@ RENCANA PROYEK AULIA
   # Mencari data untuk diolah
 - Fundamental Data Analyst
 - Mempelajari Python
+  # Belajar dasar Python
