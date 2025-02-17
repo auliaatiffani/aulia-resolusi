@@ -1,0 +1,4 @@
+RENCANA PROYEK AULIA
+
+- Mempelajari C++
+- Mempelajari SQL
