@@ -1,0 +1,6 @@
+RENCANA PROYEK AULIA
+
+- Mempelajari C++
+  # Membuat Proyek Sederhana di C++
+  # Menyempurnakan Proyek Sederhana di C++
+- Mempelajari SQL
