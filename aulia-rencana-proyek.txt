@@ -4,4 +4,6 @@ RENCANA PROYEK AULIA
   # Membuat Proyek Sederhana di C++
   # Menyempurnakan Proyek Sederhana di C++
 - Mempelajari SQL
-- Fundamental Data Analyst
+  # Mempraktikan SQL Dasar
+  # Mencari data untuk diolah
+- Mempelajari Python
